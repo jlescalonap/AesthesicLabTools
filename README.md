@@ -120,4 +120,4 @@ Si deseas contribuir, sigue estos pasos:
 ---
 
 🚀 **Desarrollado por:** [José Luis Escalona P.](https://www.linkedin.com/in/jlescalonap/)  
-⚗️ **Colaboradores:** Lic. [Gloria Mercedes Escalona Pazo](https://www.linkedin.com/in/gloria-mercedes-escalona-pazo-21064b66/) / [Ing. José Raul Escalona Giordanelli](https://www.linkedin.com/in/raul-escalona-giordanelli-4989b8a6/)
+⚗️ **Colaboradores:** [Lic. Gloria Mercedes Escalona Pazo](https://www.linkedin.com/in/gloria-mercedes-escalona-pazo-21064b66/) / [Ing. José Raul Escalona Giordanelli](https://www.linkedin.com/in/raul-escalona-giordanelli-4989b8a6/)
