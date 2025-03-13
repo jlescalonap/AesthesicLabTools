@@ -61,7 +61,7 @@ Este es un sistema SaaS de control de inventario dise√±ado para laboratorios qu√
 1. Clonar el repositorio:
 
    ```sh
-   git clone https://github.com/tuusuario/laboratorio-inventario.git
+   git clone https://github.com/jlescalonap/AesthesicLabTools.git
    cd laboratorio-inventario
    ```
 
